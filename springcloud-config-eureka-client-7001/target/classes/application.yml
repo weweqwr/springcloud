@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: springcloud-config-eureka-client
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
+
